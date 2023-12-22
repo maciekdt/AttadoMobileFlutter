@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "148527732134",
+    "firebase_url": "https://attado-mobile.firebaseio.com",
+    "project_id": "attado-mobile",
+    "storage_bucket": "attado-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148527732134:android:02d5df3948e85504",
+        "android_client_info": {
+          "package_name": "appincode.attado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148527732134-frgfmnqp9c5ap07j8fafqq3246p4usio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdYOWPGsCOT-OjmWgHEQRgx1xu-fvJycA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148527732134-frgfmnqp9c5ap07j8fafqq3246p4usio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148527732134:android:a07d1dbe32a232631eab67",
+        "android_client_info": {
+          "package_name": "com.appincode.attado_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148527732134-frgfmnqp9c5ap07j8fafqq3246p4usio.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdYOWPGsCOT-OjmWgHEQRgx1xu-fvJycA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148527732134-frgfmnqp9c5ap07j8fafqq3246p4usio.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
